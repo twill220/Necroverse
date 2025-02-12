@@ -20,3 +20,8 @@ MemoryCaptures/
 *.sln
 *.unityproj
 
+# Ignore Library and PackageCache
+Library/
+Packages/*
+!Packages/manifest.json
+
